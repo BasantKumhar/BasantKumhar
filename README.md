@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Basantkumhaar" alt="Basant" /></a> </p> -->
 
-- 🌱 I’m currently learning **Android Development and DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **Basantpandit38@gmail.com**
 
