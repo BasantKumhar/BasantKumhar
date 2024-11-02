@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **Basantpandit38@gmail.com**
+- 📫 How to reach me **hi@basant.name.np**
 
 - ⚡ Fun fact **Music is like a performance enhancing drug to me!**
 
